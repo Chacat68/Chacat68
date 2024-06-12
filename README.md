@@ -1,6 +1,6 @@
 ## 念念不忘 必有回响 👋
 
-> 💬 欢迎来信与我交流游戏开发设计！
+> 💬 欢迎来信与我交流！
 
 [![Mail Badge](https://img.shields.io/badge/-chawf56@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chawf56@outlook.com)](mailto:chawf56@outlook.com)
 ---
@@ -16,17 +16,17 @@
 ### 🛠 技术栈 | Tech Stack
 
 💻 平台 &#160; 
-- Godot![Godot](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/folder-godot.png)
-- MacOS![MacOS](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/macos-01.png)
+- ![Godot](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/Godot%20(1).png)Godot
+- ![MacOS](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/macOS%20(2).png)MacOS
 
 🌐 语言 &#160; 
 - ![GDScript](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/code%20(2).png)GDScript
-- Python![Python](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/Python.png)
+- ![Python](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/Python%20(1).png)Python
 
 🔧 工具 &#160;
-- Git![Git](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/git.png)
-- GitHub![GitHub](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/githubb.png)
-- Markdown![Markdown](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/markdown-copy.png)
+- ![Git](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/git%20(1).png)Git
+- ![GitHub](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/github.png)GitHub
+- ![Markdown](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/markdown-copy%20(1).png)Markdown
 
 ### 项目
 - Story project：一个模拟经营游戏，使用Godot开发，正在开发中
