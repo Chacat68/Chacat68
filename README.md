@@ -1,4 +1,5 @@
 ## 念念不忘 必有回响 👋
+💬 欢迎来信与我交流游戏开发设计！
 [![Mail Badge](https://img.shields.io/badge/-chawf56@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chawf56@outlook.com)](mailto:chawf56@outlook.com)
 ---
 <img align="right" alt="GIF" src="https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/sjeh.gif" />
@@ -7,7 +8,6 @@
 
 - 从事游戏开发行业，目前在用Godot开发游戏，欢迎交流！
 - 🌱 目前在自由职业中！
-- 💬 欢迎来信与我交流游戏开发设计！ [chawf56@outlook.com](mailto:chawf56@outlook.com)
 - ⭐ 学习了Godot并把 [Godot开发代码](https://github.com/Chacat68/fygame) 记录在GitHub上
 - ⚡ 我喜欢游戏设计🎮、网站设计👋
 
