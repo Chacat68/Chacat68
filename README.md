@@ -18,7 +18,7 @@
 - MacOS![MacOS](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/macos-01.png)
 
 - 🌐 &#160; 
-- GDScript![GDScript](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/code%20(1).png)
+- GDScript![GDScript](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/code%20(2).png)
 - Python![Python](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/Python.png)
 
 - 🔧 &#160;
