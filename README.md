@@ -13,7 +13,7 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; ![Godot](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- 💻 &#160; ![Godot](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/Godot.png)
 ![MacOS](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 - 🌐 &#160; ![GDScript](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Python](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
