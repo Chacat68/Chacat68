@@ -31,6 +31,6 @@
 - [设计思考](https://www.chawfoo.com/category/%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%80%83)
 - [博客](https://www.chawfoo.com/about)
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+---
 
 ⭐️ From [CHACAT](https://github.com/Chacat68)
