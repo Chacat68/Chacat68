@@ -14,12 +14,12 @@
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Godot](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/folder-godot.png)
-![MacOS](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/MACOS.png)
-- 🌐 &#160; ![GDScript](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/code%20library.png)
+![MacOS](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/macOS%20(1).png)
+- 🌐 &#160; ![GDScript](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/code.png)
 ![Python](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/Python.png)
 - 🔧 &#160;![Git](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/git.png)
 ![GitHub](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/githubb.png)
-![Markdown](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/markdown.png)
+![Markdown](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/markdown-copy.png)
 
 ### 项目
 - Story project：一个模拟经营游戏，使用Godot开发，正在开发中
