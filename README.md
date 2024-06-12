@@ -1,6 +1,7 @@
 ## 念念不忘 必有回响 👋
 
-💬 欢迎来信与我交流游戏开发设计！
+> 💬 欢迎来信与我交流游戏开发设计！
+
 [![Mail Badge](https://img.shields.io/badge/-chawf56@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chawf56@outlook.com)](mailto:chawf56@outlook.com)
 ---
 <img align="right" alt="GIF" src="https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/sjeh.gif" />
