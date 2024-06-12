@@ -13,15 +13,15 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; 
+💻 平台 &#160; 
 - Godot![Godot](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/folder-godot.png)
 - MacOS![MacOS](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/macos-01.png)
 
-- 🌐 &#160; 
-- GDScript![GDScript](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/code%20(2).png)
+🌐 语言 &#160; 
+- ![GDScript](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/code%20(2).png)GDScript
 - Python![Python](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/Python.png)
 
-- 🔧 &#160;
+🔧 工具 &#160;
 - Git![Git](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/git.png)
 - GitHub![GitHub](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/githubb.png)
 - Markdown![Markdown](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/markdown-copy.png)
