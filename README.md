@@ -14,8 +14,8 @@
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Godot](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/folder-godot.png)
-![MacOS](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/macOS%20(1).png)
-- 🌐 &#160; ![GDScript](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/code.png)
+![MacOS](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/macos-01.png)
+- 🌐 &#160; ![GDScript](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/code%20(1).png)
 ![Python](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/Python.png)
 - 🔧 &#160;![Git](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/git.png)
 ![GitHub](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/githubb.png)
