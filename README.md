@@ -31,12 +31,10 @@
 ### 项目
 - code-simcity：一个模拟经营游戏，使用Godot开发，正在开发中
 - 幻想三国：一个策略卡牌游戏，使用Unity开发，正在开发中
-- 个人博客：https://www.chawfoo.com
-
 
 ### 关于我
-- [设计思考](https://www.chawfoo.com/category/%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%80%83)
-- [博客](https://www.chawfoo.com/about)
+- [设计思考](https://www.chawfoo.com/categories/%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%80%83)
+- [个人博客](https://www.chawfoo.com/about)
 
 ---
 
