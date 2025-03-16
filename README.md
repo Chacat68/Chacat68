@@ -29,7 +29,7 @@
 - ![Markdown](https://blog-1259751088.cos.ap-shanghai.myqcloud.com/uPic/markdown-copy%20(1).png)Markdown
 
 ### 项目
-- Story project：一个模拟经营游戏，使用Godot开发，正在开发中
+- code-simcity：一个模拟经营游戏，使用Godot开发，正在开发中
 - 幻想三国：一个策略卡牌游戏，使用Unity开发，正在开发中
 - 个人博客：https://www.chawfoo.com
 
